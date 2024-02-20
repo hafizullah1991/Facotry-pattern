@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hafiz\\source\\repos\\FactoryPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C24FE05-F7B1-4160-9EED-B45A6C2804FB}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\hafiz\\source\\repos\\factorypattern\\factorypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C24FE05-F7B1-4160-9EED-B45A6C2804FB}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C24FE05-F7B1-4160-9EED-B45A6C2804FB}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\hafiz\\source\\repos\\factorypattern\\factorypattern\\threewheeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C24FE05-F7B1-4160-9EED-B45A6C2804FB}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\threewheeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C24FE05-F7B1-4160-9EED-B45A6C2804FB}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\hafiz\\source\\repos\\factorypattern\\factorypattern\\vehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C24FE05-F7B1-4160-9EED-B45A6C2804FB}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\vehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C24FE05-F7B1-4160-9EED-B45A6C2804FB}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\hafiz\\source\\repos\\factorypattern\\factorypattern\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C24FE05-F7B1-4160-9EED-B45A6C2804FB}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C24FE05-F7B1-4160-9EED-B45A6C2804FB}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\hafiz\\source\\repos\\factorypattern\\factorypattern\\motorcyle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C24FE05-F7B1-4160-9EED-B45A6C2804FB}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\motorcyle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C24FE05-F7B1-4160-9EED-B45A6C2804FB}|FactoryPattern\\FactoryPattern.csproj|c:\\users\\hafiz\\source\\repos\\factorypattern\\factorypattern\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C24FE05-F7B1-4160-9EED-B45A6C2804FB}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Threewheeler.cs",
+              "DocumentMoniker": "C:\\Users\\Hafiz\\source\\repos\\FactoryPattern\\FactoryPattern\\Threewheeler.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\Threewheeler.cs",
+              "ToolTip": "C:\\Users\\Hafiz\\source\\repos\\FactoryPattern\\FactoryPattern\\Threewheeler.cs",
+              "RelativeToolTip": "FactoryPattern\\Threewheeler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T01:38:54.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehicleFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Hafiz\\source\\repos\\FactoryPattern\\FactoryPattern\\VehicleFactory.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\VehicleFactory.cs",
+              "ToolTip": "C:\\Users\\Hafiz\\source\\repos\\FactoryPattern\\FactoryPattern\\VehicleFactory.cs",
+              "RelativeToolTip": "FactoryPattern\\VehicleFactory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T01:32:23.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Motorcyle.cs",
+              "DocumentMoniker": "C:\\Users\\Hafiz\\source\\repos\\FactoryPattern\\FactoryPattern\\Motorcyle.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\Motorcyle.cs",
+              "ToolTip": "C:\\Users\\Hafiz\\source\\repos\\FactoryPattern\\FactoryPattern\\Motorcyle.cs",
+              "RelativeToolTip": "FactoryPattern\\Motorcyle.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T01:17:22.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Hafiz\\source\\repos\\FactoryPattern\\FactoryPattern\\Car.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\Car.cs",
+              "ToolTip": "C:\\Users\\Hafiz\\source\\repos\\FactoryPattern\\FactoryPattern\\Car.cs",
+              "RelativeToolTip": "FactoryPattern\\Car.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T01:14:25.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Hafiz\\source\\repos\\FactoryPattern\\FactoryPattern\\IVehicle.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\IVehicle.cs",
+              "ToolTip": "C:\\Users\\Hafiz\\source\\repos\\FactoryPattern\\FactoryPattern\\IVehicle.cs",
+              "RelativeToolTip": "FactoryPattern\\IVehicle.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T01:13:06.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hafiz\\source\\repos\\FactoryPattern\\FactoryPattern\\Program.cs",
+              "RelativeDocumentMoniker": "FactoryPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\Hafiz\\source\\repos\\FactoryPattern\\FactoryPattern\\Program.cs",
+              "RelativeToolTip": "FactoryPattern\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T01:10:50.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
